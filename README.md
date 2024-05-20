@@ -1,7 +1,7 @@
 # Beaumont Proton System simulator
 
 
-![alt text](https://github.com/xiaodacong/Beaumont_Proton_Simulatoror/blob/main/proton_simualtor.png?raw=true)
+![alt text](https://raw.githubusercontent.com/xiaodacong/Beaumont_Proton_Simulatoror/main/proton_simualtor.png)
 # Introduction
 
 This is the simulator of Beaumont Proton system 
